@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I just finished the Full Stack UpLeveled Bootcamp based in Viena.
+- 🎓 &nbsp; Finished the Full Stack UpLeveled Bootcamp based in Viena.
 - 🌱 &nbsp; Learning more about Typescript and  Design 
 - ✍️ &nbsp; Listening books in my spare time
 
@@ -29,7 +29,7 @@
  
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+
 
 <br/>
 
